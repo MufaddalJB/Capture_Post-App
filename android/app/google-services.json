@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558078908681",
+    "project_id": "capture-and-post",
+    "storage_bucket": "capture-and-post.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558078908681:android:ddf866352bc59188859bd8",
+        "android_client_info": {
+          "package_name": "com.example.capture_post"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Efg6a6Vyk8QDNQnlHPlAWRh_F5lSgB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
